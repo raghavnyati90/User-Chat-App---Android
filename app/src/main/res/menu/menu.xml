@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/mapMenu"
+            android:title="Map View"
+            android:checkable="true" />
+
+        <item android:id="@+id/listMenu"
+            android:title="List View"
+            android:checkable="true" />
+
+        <item android:id="@+id/chatMenu"
+            android:title="Chat History"
+            android:checkable="true" />
+
+        <item android:id="@+id/signOutMenu"
+            android:title="Sign Out"
+            android:checkable="true" />
+
+    </group>
+
+</menu>

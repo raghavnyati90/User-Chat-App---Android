@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HomeTownChat</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="get_location">Set location</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="activity_title">Add New User</string>
+    <string name="enter_name">Enter nickname</string>
+    <string name="name">Nickname:</string>
+    <string name="password">Password:</string>
+    <string name="country">Country:</string>
+    <string name="state">State:</string>
+    <string name="city">City:</string>
+    <string name="year">Year:</string>
+    <string name="done_button">Done</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="cancel">Retry</string>
+    <string name="ok">Ok</string>
+    <string name="new_user">Create New User</string>
+    <string name="show_user">Show All Users</string>
+    <string name="country_filter">Select Country:</string>
+    <string name="state_filter">Select State:</string>
+    <string name="year_filter">Select Year:</string>
+    <string name="set_filter">Set Filter</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="reset">Reset</string>
+</resources>
